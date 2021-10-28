@@ -1,0 +1,39 @@
+.header{
+    height: 100px;
+    background-color: #e6e6e6;
+
+    &__headerlogo{
+        cursor: pointer;
+        color:  #7c7c7c;
+        font-weight: 700;;
+    }
+
+    &__logo{
+        font-size: 25px;
+        padding-right: 10px;
+        
+    }
+
+    &__textlogo{
+        font-size: 25px;
+    }
+    
+    &__wrapper{
+        width: 1200px;
+        margin: 0 auto;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        height: 100px;
+    }
+
+    &__link{
+        color: #288040;
+        font-size: 20px;
+
+        &--active{
+            color: #d44637;
+        }
+
+    }
+}

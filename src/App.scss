@@ -1,0 +1,19 @@
+@import '../node_modules/reset-css/sass/reset';
+@import '../src/components/ProductsWrapper/ProductsWrapper';
+@import '../src/components/Button/Button';
+@import '../src/components/Modal/Modal';
+@import '../src/components/Product/Product';
+@import '../src/components/Header/Header';
+@import '../src/components/Page404/Page404';
+@import '../src/components/ProductsCart/ProductsCart';
+@import '../src/components/FormCheckout/FormCheckout';
+@import '../src/components/MyInput/MyInput';
+
+
+
+
+
+body {
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	overflow-y: scroll;
+}

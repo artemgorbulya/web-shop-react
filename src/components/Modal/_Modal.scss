@@ -1,0 +1,43 @@
+.wrapper-modal {
+    background: rgba(0,0,0, 0.7);
+    position: fixed;
+    top: 0;
+    left: 0;
+	width: 100%;
+    height: 100%;
+    display: flex;
+	justify-content: center;
+    align-items: center;
+    z-index: 1000;
+    
+    &__window{
+		width: 520px;
+        border-radius: 10px;
+        overflow: hidden;
+    }
+
+    &__header{
+        padding: 20px;
+        background-color: #d44637;
+        color: white;
+        display: flex;
+        justify-content: space-between;
+        font-size: 20px;
+        font-weight: 700;
+    }
+
+    &__content{
+        padding: 20px;
+        background-color: #e74c3c;
+        color: white;
+        font-size: 15px;
+        line-height: 1.8;
+        text-align: center;
+    }
+
+    &__button{
+        padding: 0 0 20px;
+        background-color: #e74c3c;
+        text-align: center;
+    }
+}

@@ -1,0 +1,110 @@
+[
+	{
+		"title": "Телефон Apple iPhone 11 128GB",
+		"price": "25999",
+		"image": "Apple-iPhone-11-128GB.jpg",
+		"id": "00001",
+		"color": "красный",
+		"isFavourite": false,
+        "isOnCart": false
+	},
+	{
+		"title": "Телефон Apple iPhone SE 64GB",
+		"price": "14999",
+		"image": "Apple-iPhone-SE-64GBl.jpg",
+		"id": "00002",
+		"color": "серый",
+		"isFavourite": false,
+        "isOnCart": false
+	},
+	{
+		"title": "Телефон Huawei P Smart Pro",
+		"price": "6199",
+		"image": "Huawei-P-Smart-Pro.jpg",
+		"id": "00003",
+		"color": "синий",
+		"isFavourite": false,
+        "isOnCart": false
+	},
+	{
+		"title": "Телефон Motorola E6s",
+		"price": "2999",
+		"image": "Motorola-E6s.jpg",
+		"id": "00004",
+		"color": "черный",
+		"isFavourite": false,
+        "isOnCart": false
+	},
+	{
+		"title": "Телефон Nokia 5.3 4 64GB",
+		"price": "4449",
+		"image": "Nokia-53-4-64GB.jpg",
+		"id": "00005",
+		"color": "черный",
+		"isFavourite": false,
+        "isOnCart": false
+	},
+	{
+		"title": "Телефон OPPO A31",
+		"price": "4499",
+		"image": "OPPO-A31.jpg",
+		"id": "00006",
+		"color": "зеленый",
+		"isFavourite": false,
+        "isOnCart": false
+	},
+	{
+		"title": "Телефон Prestigio-Grace-В7-LTE",
+		"price": "1599",
+		"image": "Prestigio-Grace-В7-LTE.jpg",
+		"id": "00007",
+		"color": "черный",
+		"isFavourite": false,
+        "isOnCart": false
+	},
+	{
+		"title": "Телефон Samsung Galaxy M31s",
+		"price": "7799",
+		"image": "Samsung-Galaxy-M31s.jpg",
+		"id": "00008",
+		"color": "черный",
+		"isFavourite": false,
+        "isOnCart": false
+	},
+	{
+		"title": "Телефон Xiaomi Redmi Note 9 Pro",
+		"price": "6999",
+		"image": "Xiaomi-Redmi-Note-9-Pro.jpg",
+		"id": "00009",
+		"color": "черный",
+		"isFavourite": false,
+        "isOnCart": false
+	},
+	{
+		"title": "Телефон ZTE Blade 20 Smart",
+		"price": "3999",
+		"image": "ZTE-Blade-20-Smart.jpg",
+		"id": "00010",
+		"color": "синий",
+		"isFavourite": false,
+        "isOnCart": false
+	},
+	{
+		"title": "Телефон Xiaomi Redmi Note 9 Pro",
+		"price": "6999",
+		"image": "Xiaomi-Redmi-Note-9-Pro.jpg",
+		"id": "00011",
+		"color": "черный",
+		"isFavourite": false,
+        "isOnCart": false
+	},
+	{
+		"title": "Телефон Xiaomi Redmi Note 9 Pro",
+		"price": "6999",
+		"image": "Xiaomi-Redmi-Note-9-Pro.jpg",
+		"id": "00012",
+		"color": "черный",
+		"isFavourite": false,
+        "isOnCart": false
+	}
+]
